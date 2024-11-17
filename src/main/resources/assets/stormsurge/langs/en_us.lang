@@ -1,3 +1,6 @@
+item.stormsurge.stormsurge_staff=Stormsurge Staff
+tooltip.stormsurge.stormsurge_staff=A powerful staff that summons lightning bolts
 
+block.stormsurge.lightning_ball=Ball lightning
 
-creative_tab.modid.root=Stormsurge
+creative_tab.stormsurge.root=Stormsurge
