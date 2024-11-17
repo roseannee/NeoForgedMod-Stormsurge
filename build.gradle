@@ -60,7 +60,7 @@ minecraft {
             def args = new ArrayList()
 
             args.add "--mixin"
-            args.add "mixins.${config.mod_id}.json"
+//            args.add "mixins.${config.mod_id}.json"
 
             args.add "-Dmixin.env.disableRefMap=true"
 
